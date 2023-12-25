@@ -229,7 +229,7 @@ curl -v http://192.168.0.1:3001
 
 Holaa...! 
 
-## 11. Clean Up (optional)
+## 12. Clean Up (optional)
 
    ```shell
    sudo ip netns del blue-namespace
